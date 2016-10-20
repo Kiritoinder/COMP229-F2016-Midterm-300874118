@@ -1,0 +1,9 @@
+
+Inderjeet Singh
+300874118
+
+Git hub repository for Midterm
+https://github.com/Kiritoinder/COMP229-F2016-Midterm-300874118
+
+Azure
+http://comp229-midterm-inder.azurewebsites.net/
