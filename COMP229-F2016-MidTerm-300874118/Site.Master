@@ -2,6 +2,8 @@
 <%--Name: Inderjeet Singh --%>
 <%--Student ID: 300874118 --%>
 <%-- Date Modofied: 19-oct-2016 --%>
+<%-- file:Site.master --%>
+<%-- version 1.0.0.1 --%>
 <!DOCTYPE html>
 <html lang="en">
 <head runat="server">
@@ -53,7 +55,7 @@
         <!-- Footer -->
         <footer class="footer navbar navbar-fixed-bottom bg-info">
             <div class="container">
-                <p class="text-muted">&copy; 2016 ASP.NET Web Forms Todo List</p>
+                <p class="text-muted">&copy;Inderjeet Singh - 300874118 - 2016 ASP.NET Web Forms Todo List</p>
             </div>
         </footer>
     </form>

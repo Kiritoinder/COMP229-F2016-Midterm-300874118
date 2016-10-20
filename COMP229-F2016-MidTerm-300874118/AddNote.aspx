@@ -1,4 +1,11 @@
 ﻿<%@ Page Title="Add Note" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="AddNote.aspx.cs" Inherits="COMP229_F2016_MidTerm_300874118.AddNote" %>
+
+<%--Name: Inderjeet Singh --%>
+<%--Student ID: 300874118 --%>
+<%-- Date Modofied: 19-oct-2016 --%>
+<%-- file:AddNote.aspx--%>
+<%-- version 1.0.0.1 --%>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     
         <div class="col-md-offset-4 col-md-6" style="width:400px; height:400px" >

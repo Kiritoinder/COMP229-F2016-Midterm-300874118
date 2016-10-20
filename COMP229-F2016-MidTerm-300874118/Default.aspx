@@ -5,7 +5,9 @@
         <div class="col-md-offset-2 col-md-8">
             <div class="jumbotron" id="content" runat="server">
                 <div class="text-center">
-                    <h2>Welcome to ASP.NET Todo List</h2>
+                    <h2>Welcome to ToDoList App</h2>
+                    <h2>Click here to go to app</h2>
+                   <a href="TodoList.aspx"><button type="button" class="btn btn-default">ToDoList</button></a>
                 </div>
             </div>
         </div>
