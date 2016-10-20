@@ -32,6 +32,9 @@ namespace COMP229_F2016_MidTerm_300874118
                 case "Todo List":
                     todo.Attributes.Add("class", "active");
                     break;
+                case "Add Note":
+                    addNote.Attributes.Add("class", "active");
+                    break;
             }
         }
     }

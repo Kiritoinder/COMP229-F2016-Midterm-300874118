@@ -11,5 +11,14 @@ namespace COMP229_F2016_MidTerm_300874118 {
     
     
     public partial class TodoList {
+        
+        /// <summary>
+        /// TodoListGridView control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView TodoListGridView;
     }
 }
