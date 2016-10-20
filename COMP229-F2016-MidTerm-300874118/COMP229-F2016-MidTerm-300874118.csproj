@@ -84,9 +84,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\TodoDB.mdf" />
-    <Content Include="App_Data\TodoDB_log.ldf">
-      <DependentUpon>TodoDB.mdf</DependentUpon>
+    <Content Include="App_Data\ToDo.mdf" />
+    <Content Include="App_Data\ToDo_log.ldf">
+      <DependentUpon>ToDo.mdf</DependentUpon>
     </Content>
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -140,9 +140,8 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Models\Table.cs" />
     <Compile Include="Models\ToDo.cs" />
-    <Compile Include="Models\TodoContext.cs" />
+    <Compile Include="Models\TodoConnection.cs" />
     <Compile Include="TodoDetails.aspx.cs">
       <DependentUpon>TodoDetails.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

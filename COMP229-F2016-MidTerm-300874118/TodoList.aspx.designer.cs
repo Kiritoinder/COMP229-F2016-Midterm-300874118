@@ -7,11 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP229_F2016_MidTerm_300874118
-{
-
-
-    public partial class TodoList
-    {
+namespace COMP229_F2016_MidTerm_300874118 {
+    
+    
+    public partial class TodoList {
     }
 }
